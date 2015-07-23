@@ -1,6 +1,6 @@
 ## PHP_and_MySQL
 
-# MySQL rows of tabel product
+MySQL rows of tabel product
  * id
  * name
  * name_trans
